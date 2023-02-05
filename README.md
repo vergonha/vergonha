@@ -15,4 +15,4 @@
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-1d1d1d?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-1d1d1d?style=for-the-badge&logo=SparkAR&logoColor=white)
 
-<img src="https://lastfm-recently-played.vercel.app/api?user=atencioso&count=3" width=50%>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31iaaqbhzryo5xhcptasm4f5przy&count=3" width=50%>
