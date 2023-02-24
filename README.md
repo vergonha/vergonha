@@ -14,4 +14,8 @@
 ![Discord Badge](https://img.shields.io/badge/Discord-1d1d1d?style=for-the-badge&logo=discord&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-1d1d1d?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spark AR Badge](https://img.shields.io/badge/Spark%20AR-1d1d1d?style=for-the-badge&logo=SparkAR&logoColor=white)
+```
 
+```
+
+![Header](https://i.imgur.com/DZEnyEl.png)
