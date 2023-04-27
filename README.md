@@ -3,7 +3,7 @@
 ### Who am I?
 <img align="right" src="https://wsrv.nl/?url=https://64.media.tumblr.com/73c5a5f378b9c25f974311b6ff99f1ad/23aceef8e12d4d46-75/s500x750/5df7296d640f2f391e9272e7a0c8701d53bd0d49.png&w=230&h=230&fit=cover&mask=circle" alt="Effy Stonem">
 <p>
-	I'm a 17 aged Brazilian developer, I like to write some Discord bots, underground APIs, Web Scraping, Clean Code and study Reverse Engineering.
+	I'm a 18 aged Brazilian developer, I like to write some Discord bots, underground APIs, Web Scraping, Clean Code and study Reverse Engineering.
 	<br /><br />
 	Motivated by the desire to combine music, art and code, I started a daily study routine about 1 year ago.
 </p>
