@@ -8,9 +8,9 @@
 	Motivated by the desire to combine music, art and code, I started a daily study routine about 1 year ago.
 </p>
 
-![C# Badge](https://img.shields.io/badge/c%23-677a73?style=for-the-badge&logo=c-sharp&logoColor=050505)
-![Ruby Badge](https://img.shields.io/badge/Ruby-677a73?style=for-the-badge&logo=ruby&logoColor=050505)
-![Typescript Badge](https://img.shields.io/badge/TypeScript-677a73?style=for-the-badge&logo=javascript&logoColor=050505)  
-![Astro Badge](https://img.shields.io/badge/Astro-677a73?style=for-the-badge&logo=astro&logoColor=050505)
-![Python Badge](https://img.shields.io/badge/Python-677a73?style=for-the-badge&logo=python&logoColor=050505)
-![NextJS Badge](https://img.shields.io/badge/next%20js-677a73?style=for-the-badge&logo=nextdotjs&logoColor=050505)
+![C# Badge](https://img.shields.io/badge/c%23-fff?style=for-the-badge&logo=c-sharp&logoColor=050505)
+![Ruby Badge](https://img.shields.io/badge/Ruby-fff?style=for-the-badge&logo=ruby&logoColor=050505)
+![Typescript Badge](https://img.shields.io/badge/TypeScript-fff?style=for-the-badge&logo=javascript&logoColor=050505)  
+![Astro Badge](https://img.shields.io/badge/Astro-fff?style=for-the-badge&logo=astro&logoColor=050505)
+![Python Badge](https://img.shields.io/badge/Python-fff?style=for-the-badge&logo=python&logoColor=050505)
+![NextJS Badge](https://img.shields.io/badge/next%20js-fff?style=for-the-badge&logo=nextdotjs&logoColor=050505)
